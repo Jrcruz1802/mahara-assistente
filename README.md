@@ -1,2 +1,1 @@
-# mahara-assistente
-Assistente Financeira Virtual Mahara para Telegram
+Bot de finanças pessoais Mahara para Telegram. Criado por Raul para Vania. 🌿
